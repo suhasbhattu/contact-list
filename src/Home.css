@@ -1,0 +1,23 @@
+.app-header {
+    padding: 15px 45px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #282c34;
+    color: white;
+    align-items: center;
+}
+
+.app-name {
+    margin: 0;
+}
+
+.app-logout {
+    color: white;
+}
+
+.app-content {
+    text-align: center;
+    margin: 45px;
+}

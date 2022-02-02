@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+#username, #password, .login {
+  margin-right: 5px;
+  width: 250px;
+  text-align: center;
+}
+
+.login {
+  margin-top: 10px;
+  height: 30px;
+}

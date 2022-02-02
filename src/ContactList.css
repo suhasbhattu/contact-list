@@ -1,0 +1,12 @@
+.contact-list {
+    height: 500px;
+    overflow-y: scroll;
+}
+
+.contact-container {
+    text-align: center;
+}
+
+.loading {
+    margin-top: 5px;
+}

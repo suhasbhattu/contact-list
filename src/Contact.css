@@ -1,0 +1,12 @@
+.contact {
+    margin: 5px;
+    border: solid 1px thistle;
+    padding: 5px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+}
+
+.user-profile, .user-name {
+    margin: 15px;
+}
